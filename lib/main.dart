@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
           228,
           236,
           1,
-        ), // ✅ Background color
+        ), //  Background color
         appBarTheme: AppBarTheme(
           backgroundColor: Color.fromRGBO(252, 228, 236, 1),
           elevation: 0,
